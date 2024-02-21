@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(216, 191, 216);
+    text-align: center;   
+}
+.b1{
+    font-size:  x-large;
+    padding:10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Now{
+    font-size: x-large;
+    font-weight:900;
+    font-style: normal;
+}
+.password{
+    font-size: x-large;
+    font-weight: 900;
+}
+.b2{
+    font-size: x-large;
+    padding: 10px;
+    padding-left:50px;
+    padding-right: 50px;
+}
+.s1{
+    color: blue;
+}
+.s2{height: 100px;width: 100px;}
+
+form{
+    border: 5px solid black;
+    width: 500px;}
+    .or{
+        margin-bottom: auto;
+        margin: auto;    }
+        .fc{background-color: #fff;}
+
